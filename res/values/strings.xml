@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Memory Game</string>
+    <string name="title_Memory">Disney memory game </string>
+    <string name="menu_option_4x4_game">Esay Game</string>
+    <string name="menue_option_6x6_game">Hard Game </string>
+
+</resources>
